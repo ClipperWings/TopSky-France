@@ -168,10 +168,10 @@ RDF_Floor=2500
 
 //Weather Radar Settings
 WXR_Latitude=54.5
-WXR_Latitude_Max=61
-WXR_Latitude_Min=48
+WXR_Latitude_Max=53
+WXR_Latitude_Min=36
 WXR_Longitude=-2.5
-WXR_Longitude_Max=5
+WXR_Longitude_Max=14
 WXR_Longitude_Min=-10
 WXR_Brightness=20
 WXR_Gain=85
